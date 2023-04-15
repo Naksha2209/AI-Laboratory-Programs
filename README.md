@@ -1,1 +1,1 @@
-# AI-Laboratory-Programs
+# AI Programs
